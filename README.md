@@ -33,3 +33,4 @@ Example
 3. Superfly 'Voice'
 4. All stars 'We are the world'
 5. YOASOBI 'Blue'
+6. Parov Stelar "The Sun"
